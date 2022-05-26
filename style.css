@@ -75,7 +75,7 @@ summary,
   margin: 1rem auto;
   width: 80%;
   font-family: "Oswald", sans-serif;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .section-one__title--mid {
@@ -248,6 +248,7 @@ summary,
   .section-one__title {
     padding: 5rem 2rem;
     width: 60%;
+    font-size: 3rem;
   }
 
   .section-one__text {
